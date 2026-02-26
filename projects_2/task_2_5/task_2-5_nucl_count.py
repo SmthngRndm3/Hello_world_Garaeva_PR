@@ -1,0 +1,11 @@
+dna = input('Введите последовательность ДНК: ').upper()
+count_A = dna.count('A')
+count_T = dna.count('T')
+count_C = dna.count('C')
+count_G = dna.count('G')
+length_dna = len(dna)
+
+print(f'Подсчёт нуклеотидов:\n A:\t{count_A}\n T:\t{count_T}\n C:\t{count_C}\n G:\t{count_G}')
+print(f'Общая длина: {length_dna} нуклеотидов\n')
+print('Процентное содержание каждого нуклеотида:')
+print('\n A:\t', round((count_A / length_dna) * 100), '\n T:\t', round((count_T / length_dna) * 100), '\nC:\t', round((count_C / length_dna) * 100), '\nG:\t', round((count_G / length_dna) * 100))
