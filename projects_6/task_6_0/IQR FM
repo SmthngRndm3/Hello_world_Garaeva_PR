@@ -1,0 +1,4 @@
+Interquartile Range(kg): gender
+Female    36.375
+Male      34.725
+Name: length_cm, dtype: float64 

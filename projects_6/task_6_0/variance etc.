@@ -1,0 +1,40 @@
+age_years:
+Variance(^2): 4.2
+Standart deviation: 2.1
+Coefficient of variation: 44.2%
+
+weight_kg:
+Variance(^2): 718.1
+Standart deviation: 26.8
+Coefficient of variation: 38.4%
+
+length_cm:
+Variance(^2): 681.5
+Standart deviation: 26.1
+Coefficient of variation: 17.4%
+
+shoulder_height_cm:
+Variance(^2): 137.8
+Standart deviation: 11.7
+Coefficient of variation: 14.7%
+
+tusk_length_cm:
+Variance(^2): 26.1
+Standart deviation: 5.1
+Coefficient of variation: 49.9%
+
+litter_size:
+Variance(^2): 8.1
+Standart deviation: 2.8
+Coefficient of variation: 72.7%
+
+health_score:
+Variance(^2): 279.1
+Standart deviation: 16.7
+Coefficient of variation: 22.2%
+
+territory_ha:
+Variance(^2): 3.6
+Standart deviation: 1.9
+Coefficient of variation: 44.7%
+
